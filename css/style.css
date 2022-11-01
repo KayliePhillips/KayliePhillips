@@ -164,7 +164,7 @@ img { max-width: 100%; }
   font-weight: 400;
   margin-top: 70px;
   line-height: 30px;
-  font-size: 18px;
+  font-size: 22px;
   letter-spacing: 0.4px;
 }
 .content-details {
@@ -488,7 +488,7 @@ p {
   line-height: 14px;
   letter-spacing: 0.4px;
   text-transform: uppercase;
-  color: #cccccc;
+  color: black;
 }
 .company {
   font-size: 12px;
